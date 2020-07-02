@@ -47,14 +47,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lstProgramas.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.lstProgramas.FormattingEnabled = true;
-            this.lstProgramas.Items.AddRange(new object[] {
-            "C:\\Users\\Marcos\\AppData\\Local\\GitHubDesktop\\GitHubDesktop.exe",
-            "C:\\Users\\Marcos\\Downloads"});
             this.lstProgramas.Location = new System.Drawing.Point(12, 12);
             this.lstProgramas.Name = "lstProgramas";
             this.lstProgramas.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.lstProgramas.Size = new System.Drawing.Size(504, 221);
             this.lstProgramas.TabIndex = 0;
+            this.lstProgramas.SelectedIndexChanged += new System.EventHandler(this.lstProgramas_SelectedIndexChanged);
             // 
             // tiInicio
             // 
@@ -102,7 +100,7 @@
             // lblContador
             // 
             this.lblContador.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.lblContador.Font = new System.Drawing.Font("TeamViewer14", 15F, System.Drawing.FontStyle.Bold);
+            this.lblContador.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold);
             this.lblContador.Location = new System.Drawing.Point(8, 240);
             this.lblContador.Name = "lblContador";
             this.lblContador.Size = new System.Drawing.Size(29, 21);

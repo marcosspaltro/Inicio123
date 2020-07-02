@@ -8,3 +8,13 @@ C:\Users\Marcos\source\repos\Inicio\Inicio\obj\Debug\Inicio.csproj.CoreCompileIn
 C:\Users\Marcos\source\repos\Inicio\Inicio\obj\Debug\Inicio.exe
 C:\Users\Marcos\source\repos\Inicio\Inicio\obj\Debug\Inicio.pdb
 C:\Users\Marcos\source\repos\Inicio\Inicio\obj\Debug\Inicio.frmInicio.resources
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\obj\Debug\Inicio.csprojAssemblyReference.cache
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\obj\Debug\Inicio.frmInicio.resources
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\obj\Debug\Inicio.csproj.GenerateResource.cache
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\obj\Debug\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\obj\Debug\Inicio.exe
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\obj\Debug\Inicio.pdb
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\bin\Debug\Inicio.exe.config
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\bin\Debug\Inicio.exe
+C:\Users\Marcos\Source\Repos\Inicio123\Inicio\bin\Debug\Inicio.pdb
